@@ -1,0 +1,82 @@
+/*
+Color Palette 264684
+https://colorhunt.co/palette/264684
+#fed049
+#007580
+#282846
+#d8ebe4
+
+Fonts:
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+*/
+
+body {
+  background-color: #d8ebe4;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #d8ebe4;
+}
+
+.middle-container {
+  background-color: #d8ebe4;
+}
+
+.bottom-container {
+  background-color: #d8ebe4;
+}
+
+.notes {
+  margin-top: -15px;
+  font-size: 15px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #fed049;
+  border-width: 4px;
+  /* width: 20%; */
+  max-width: 300px;
+  margin-left: 50px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #282846;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #282846;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+    color: #282846;
+    font-family: 'Merriweather', serif;
+}
+
+p {
+  color: #007580;
+}
+
+table {
+  color: #007580;
+  margin: auto;
+}
+
+ul {
+  color: #007580;
+  margin: auto;
+}
+
+ol {
+  color: #007580;
+  margin: auto;
+}
